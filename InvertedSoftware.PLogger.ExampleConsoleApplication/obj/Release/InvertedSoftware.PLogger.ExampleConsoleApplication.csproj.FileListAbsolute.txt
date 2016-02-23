@@ -1,0 +1,11 @@
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\bin\Release\InvertedSoftware.PLogger.ExampleConsoleApplication.exe.config
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\bin\Release\InvertedSoftware.PLogger.ExampleConsoleApplication.exe
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\bin\Release\InvertedSoftware.PLogger.ExampleConsoleApplication.pdb
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\bin\Release\InvertedSoftware.PLogger.dll
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\bin\Release\InvertedSoftware.PLogger.pdb
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\obj\Release\InvertedSoftware.PLogger.ExampleConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\obj\Release\InvertedSoftware.PLogger.ExampleConsoleApplication.exe
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\obj\Release\InvertedSoftware.PLogger.ExampleConsoleApplication.pdb
+C:\Users\gratner\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\bin\Release\InvertedSoftware.PLogger.ExampleConsoleApplication.exe.config
+C:\Users\gratner\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\obj\Release\InvertedSoftware.PLogger.ExampleConsoleApplication.exe
+C:\Users\gratner\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\obj\Release\InvertedSoftware.PLogger.ExampleConsoleApplication.pdb

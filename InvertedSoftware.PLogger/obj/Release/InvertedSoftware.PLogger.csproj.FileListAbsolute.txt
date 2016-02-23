@@ -1,0 +1,4 @@
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger\bin\Release\InvertedSoftware.PLogger.dll
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger\bin\Release\InvertedSoftware.PLogger.pdb
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger\obj\Release\InvertedSoftware.PLogger.dll
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger\obj\Release\InvertedSoftware.PLogger.pdb

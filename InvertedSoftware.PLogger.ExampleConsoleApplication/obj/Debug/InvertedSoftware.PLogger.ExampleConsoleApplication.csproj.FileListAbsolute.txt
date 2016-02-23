@@ -1,0 +1,8 @@
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\bin\Debug\InvertedSoftware.PLogger.ExampleConsoleApplication.exe.config
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\bin\Debug\InvertedSoftware.PLogger.ExampleConsoleApplication.exe
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\bin\Debug\InvertedSoftware.PLogger.ExampleConsoleApplication.pdb
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\bin\Debug\InvertedSoftware.PLogger.dll
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\bin\Debug\InvertedSoftware.PLogger.pdb
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\obj\Debug\InvertedSoftware.PLogger.ExampleConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\obj\Debug\InvertedSoftware.PLogger.ExampleConsoleApplication.exe
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger.ExampleConsoleApplication\obj\Debug\InvertedSoftware.PLogger.ExampleConsoleApplication.pdb

@@ -1,0 +1,5 @@
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger\bin\Debug\InvertedSoftware.PLogger.dll
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger\bin\Debug\InvertedSoftware.PLogger.pdb
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger\obj\Debug\InvertedSoftware.PLogger.dll
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger\obj\Debug\InvertedSoftware.PLogger.pdb
+C:\Users\Gal\Downloads\PLogger\PLogger\InvertedSoftware.PLogger\obj\Debug\InvertedSoftware.PLogger.csprojResolveAssemblyReference.cache
